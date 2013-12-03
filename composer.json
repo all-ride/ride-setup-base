@@ -1,0 +1,20 @@
+{
+    "name": "pallo/setup-base",
+    "description": "Setup the base Pallo application through the Composer dependency manager.",
+    "version": "0.1.0",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Joris Vandeweerd",
+            "email": "joris@statik.be"
+        }
+    ],
+    "require": {
+        "pallo/app-i18n-en": ">=0.1.0",
+        "pallo/cli-security": ">=0.1.0",
+        "pallo/setup-web": ">=0.1.0",
+        "pallo/theme-bootstrap": ">=0.1.0",
+        "pallo/web-base": ">=0.1.2",
+        "pallo/web-security-generic": ">=0.1.1"
+    }
+}
