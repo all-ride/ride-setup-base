@@ -12,6 +12,7 @@
     "require": {
         "pallo/app-i18n-en": ">=0.1.0",
         "pallo/cli-security": ">=0.1.0",
+        "pallo/setup-cli": ">=0.1.0",
         "pallo/setup-web": ">=0.1.0",
         "pallo/theme-bootstrap": ">=0.1.0",
         "pallo/web-base": ">=0.1.2",
