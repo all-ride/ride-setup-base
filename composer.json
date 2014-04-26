@@ -17,6 +17,7 @@
         "ride/setup-web": ">=0.1.0",
         "ride/theme-bootstrap": ">=0.1.0",
         "ride/web-base": ">=0.1.2",
-        "ride/web-security-generic": ">=0.1.1"
+        "ride/web-security-generic": ">=0.1.1",
+        "ride/web-documentation": "*"
     }
 }
