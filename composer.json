@@ -16,7 +16,7 @@
         "ride/cli-web": "^1.0.0",
         "ride/setup-cli": "^1.0.0",
         "ride/setup-web": "^1.0.0",
-        "ride/theme-asphalt": "^1.0.0",
+        "ride/theme-electric": "^1.0.0",
         "ride/web-base": "^1.0.0",
         "ride/web-security-generic": "^1.0.0",
         "ride/web-documentation": "^1.0.0"
